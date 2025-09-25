@@ -1,2 +1,2 @@
-SWITCH Modchip(Picofly) Install
+# SWITCH Modchip(Picofly) Install
 https://blog.naver.com/cfkalu
